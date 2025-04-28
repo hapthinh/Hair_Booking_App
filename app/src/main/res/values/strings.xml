@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">BarBerShopApp</string>
+    <string name="tittle_slider_1">ĐẶT LỊCH NHANH CHÓNG</string>
+    <string name="tittle_slider_2">ƯU ĐÃI HẤP DẪN</string>
+    <string name="tittle_slider_3">DỊCH VỤ 5 SAO</string>
+    <string name="text_body_1">Đặt lịch giữ chỗ chỉ với 30 giây</string>
+    <string name="text_body_2">Quà tặng hấp dẫn cập nhật liên tục</string>
+    <string name="text_body_3">Dịch vụ phù hợp với mọi lứa tuổi</string>
+    <string name="title_activity_auth_page">AuthPage</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_tesst">tesst</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name ="hello">BarBerShop</string>
+    <string name="create_account">Create An Account </string>
+    <string name="phone"> Số điện thoại </string>
+    <string name="bỉthday"> Ngày Sinh </string>
+    <string name="email"> Email </string>
+    <string name="first_name"> Họ và tên </string>
+    <string name="password"> Mật khẩu </string>
+    <string name="policy"> Bằng cách tiếp tục, bạn chấp nhận Chính sách Bảo mật và Điều khoản Sử dụng của chúng tôi. </string>
+    <string name="title_policy"> CHÍNH SÁCH BẢO MẬT </string>
+    <string name="register"> Đăng Ký </string>
+    <string name="login"> Đăng Nhập </string>
+    <string name="forget_password"> quên mật khẩu </string>
+    <string name="home"> Trang chủ </string>
+    <string name="policy_title_1">Chính sách bảo mật thông tin</string>
+    <string name="policy_title_2">Thu thập và sử dụng thông tin</string>
+    <string name="policy_title_3">Dữ liệu nhật ký</string>
+    <string name="policy_title_4">Liên hệ chúng tôi</string>
+    <string name="policy_paragraph_1">Trang này được sử dụng để thông báo cho khách truy cập về các chính sách của chúng tôi với việc thu thập,
+        sử dụng và tiết lộ Thông tin Cá nhân nếu bất kỳ ai quyết định sử dụng Dịch vụ của chúng tôi.
+        Nếu bạn chọn sử dụng Dịch vụ của chúng tôi, nghĩa là bạn đồng ý với việc thu thập và sử dụng thông tin liên quan đến chính sách này.
+        Thông tin Cá nhân mà chúng tôi thu thập được sử dụng để cung cấp và cải thiện Dịch vụ.
+        Chúng tôi sẽ không sử dụng hoặc chia sẻ thông tin của bạn với bất kỳ ai ngoại trừ được mô tả trong Chính sách Bảo mật này.</string>
+    <string name="policy_paragraph_2">Để có trải nghiệm tốt hơn, khi sử dụng Dịch vụ của chúng tôi, chúng tôi có thể yêu cầu bạn cung cấp cho
+        chúng tôi một số thông tin nhận dạng cá nhân nhất định, bao gồm nhưng không giới hạn ở tên đăng nhập người dùng, mật khẩu.
+        Thông tin mà chúng tôi yêu cầu sẽ được chúng tôi lưu giữ và sử dụng như được mô tả trong chính sách bảo mật này.</string>
+    <string name="policy_paragraph_3">Chúng tôi muốn thông báo với bạn rằng bất cứ khi nào bạn sử dụng Dịch vụ của chúng tôi, trong trường hợp xảy ra lỗi trong ứng dụng,
+        chúng tôi thu thập dữ liệu và thông tin (thông qua các sản phẩm của bên thứ ba) trên điện thoại của bạn được gọi là dữ liệu nhật ký. Dữ liệu nhật ký này có thể bao gồm
+        thông tin như địa chỉ Giao thức Internet (“IP”) trên thiết bị của bạn, tên thiết bị, phiên bản hệ điều hành, cấu hình của ứng dụng khi sử dụng Dịch vụ của chúng tôi,
+        ngày giờ bạn sử dụng Dịch vụ và các số liệu thống kê khác .</string>
+    <string name="policy_paragraph_4">Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Chính sách Bảo mật của chúng tôi,
+        vui lòng liên hệ với chúng tôi theo địa chỉ thinh@ou.edu.vn</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="navigation_header">App Drawer</string>
+    <string name="booking">Đặt lịch giữ chỗ</string>
+    <string name="city">Chọn thành phố</string>
+    <string name="stylist">Chọn stylist</string>
+    <string name="select_hour">Chọn giờ</string>
+    <string name="rating">Đánh Giá</string>
+    <string name="coupon">Ưu Đãi</string>
+    <string name="service">Dịch Vụ</string>
+    <string name="voucher_code">Mã giảm giá</string>
+    <string name="input_voucher_header">Nhập mã voucher(nếu có)</string>
+    <string name="select_city_header">Chọn thành phố</string>
+    <string name="select_stylist_header">Chọn thợ cắt tóc</string>
+    <string name="select_date_header">Chọn ngày</string>
+    <string name="select_hour_header">Chọn giờ</string>
+    <string name="date_booking">Ngày cắt</string>
+</resources>
